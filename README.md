@@ -1,7 +1,6 @@
-# PemesananMakanan
+# TheWitariCaffe
 
-Aplikasi ini merupakan tugas untuk membangun perangkat lunak, kami membuat aplikasi seperti yang di restoran 
-dengan mengandalkan jaringan internal yang ada di restoran tersebut untuk saling terhubung, misalnya komputer 
-yang berada di Kasir dengan komputer yang berada di dapur, tanpa pelayan harus mondar-mandir ke kasir-dapur
+the witari cafe is a website for ordering coffee and desserts that aims to minimize direct contact between customers and the manager of the cafe, both waiters and barists. 
+Here I use Oracle database, PHP programming language and Java script. Built using HTML and beautified with CSS and bootstrapping framework.
 
-https://mangujang.site
+Linkedin : raka sadiantara
